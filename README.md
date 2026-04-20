@@ -1,14 +1,14 @@
-# smart-organiser
-A Python-based tool that helps organize tasks or data efficiently using simple logic and user input.
+# Smart File Organizer 
+A Python script that automatically organizes files in a folder into categories based on their file type.
 
 ## Features
-- Organizes tasks or items based on user input
-- Simple and clean command-line interface
-- Beginner-friendly implementation
-- Easy to extend with more features
+- Sorts files into folders like Images, Docs, Videos, Code, and Others
+- Automatically creates folders if they don’t exist
+- Works on any user-specified directory
+- Simple command-line interface
 
 ## Tech Used
-- Python
+- Python (pathlib, shutil)
 
 ## Run
 ```bash
